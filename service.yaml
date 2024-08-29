@@ -11,4 +11,4 @@ spec:
     - protocol: TCP
       port: 80
       targetPort: 80
-      NordPort: 3000
+      NordPort: 30000
