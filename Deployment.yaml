@@ -17,6 +17,6 @@ spec:
     spec:
       containers:
       - name: nginx
-        image: 
+        image: docker.io/drashti099/jenkins:t1
         ports:
         - containerPort: 80
